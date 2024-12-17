@@ -1,0 +1,9 @@
+SELECT 
+    MIN(price) AS min_price,
+    MAX(price) AS max_price,
+    AVG(price) AS avg_price,
+    COUNT(*) AS total_items
+FROM products
+WHERE product_name LIKE '%Tide%' 
+  AND store_name = 'Home Depot';
+--- for tide detergent prices
