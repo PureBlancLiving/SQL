@@ -8,6 +8,6 @@
 
 *This is an example portfolio for me to track my progress as I pivot insurance industry into this field, I'm so excicited! ;)
 
-Visit my website [go here!] (https://pureblancliving.com)
+Visit my website [go here!](https://pureblancliving.com)
 
-Email me [go here!] (info@pureblancliving.com)
+Email me [go here!](info@pureblancliving.com)
